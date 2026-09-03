@@ -1,0 +1,93 @@
+{
+    "Python Developer": [
+        {
+            "question": "Tell me about yourself.",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is Python and why is it popular?",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is the difference between a list and a tuple?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "Explain Object Oriented Programming in Python.",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "Explain decorators and generators in Python.",
+            "difficulty": "Hard"
+        }
+    ],
+
+    "Data Analyst": [
+        {
+            "question": "Tell me about yourself.",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is Pandas and why is it used?",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is data cleaning?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "What is correlation?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "Explain advanced SQL joins and window functions.",
+            "difficulty": "Hard"
+        }
+    ],
+
+    "Machine Learning Engineer": [
+        {
+            "question": "Tell me about yourself.",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is supervised learning?",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is overfitting?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "What is feature engineering?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "How would you design an ML model for a real-world problem?",
+            "difficulty": "Hard"
+        }
+    ],
+
+    "Software Engineer": [
+        {
+            "question": "Tell me about yourself.",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What is an API?",
+            "difficulty": "Easy"
+        },
+        {
+            "question": "What are the four pillars of OOP?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "What is the difference between stack and queue?",
+            "difficulty": "Medium"
+        },
+        {
+            "question": "How would you design a scalable software system?",
+            "difficulty": "Hard"
+        }
+    ]
+}

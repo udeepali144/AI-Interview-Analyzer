@@ -1,0 +1,11 @@
+{
+    "name": "interview-security",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "streamlit-component-lib serve"
+    },
+    "dependencies": {
+        "streamlit-component-lib": "^2.0.0"
+    }
+}
