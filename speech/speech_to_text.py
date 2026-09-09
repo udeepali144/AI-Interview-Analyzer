@@ -1,4 +1,3 @@
-import sounddevice as sd
 import soundfile as sf
 import speech_recognition as sr
 import os
